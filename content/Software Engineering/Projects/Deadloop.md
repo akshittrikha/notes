@@ -1,0 +1,6 @@
+- [x] deadloop blog
+- [ ] check with multiple users
+- [ ] like and comment functionality
+- [ ] admin portal
+- [ ] add posts / remove posts / post insights (views / likes / comments)
+- [ ] post filters and sorting
