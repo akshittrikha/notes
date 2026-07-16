@@ -1,9 +1,0 @@
-- [x] VitalStream - Kafka/FastAPI vitals ingestion pipeline [[VitalStream/Index|VitalStream]]
-- [ ] Deadloop Blog [[Deadloop]]
-- [ ] Voice Notes using LLM models
-- [ ] Circuit Breaker
-- [x] Postman Alternative - https://github.com/akshtrikha/wren
-- [ ] Commitment Tracker with AI Accountability [[Commitment Tracker]]
-- [ ] RAG over Obsidian Vault [[RAG over Obsidian Vault]]
-- [ ] GitHub Unfinished Projects Surface [[GitHub Unfinished Projects]]
-- [ ] AI Standup Bot [[AI Standup Bot]]
