@@ -95,3 +95,4 @@ It doesn't track exact recency order — but it correctly separates hot from col
 - [[Belady's Anomaly]] — stack property and why LRU approximations are immune
 - [[TinyLFU]] — more sophisticated eviction using frequency + recency
 - [[Fuzzy Checkpoint]] — what happens to dirty pages the clock sweep evicts
+- [[Database Architecture]] — the buffer manager's place within the storage engine layer

@@ -244,3 +244,11 @@ Ignore it long enough and **PostgreSQL shuts down and refuses all connections** 
 
 **Know the isolation angle:**
 > "READ COMMITTED takes a fresh snapshot per query, so you can see commits mid-transaction. REPEATABLE READ locks the snapshot at transaction start — that's the full MVCC guarantee."
+
+---
+
+## Related Notes
+- [[Database Architecture]] — where MVCC, VACUUM, and the WAL buffer sit within the storage engine layer
+- [[Storage Engines]] — PostgreSQL as a concrete B-Tree-family engine
+- [[Fuzzy Checkpoint]] — checkpointing mechanics for the WAL buffer described here
+- [[Steal and Force Policies]] — why PostgreSQL's durability model needs both UNDO and REDO

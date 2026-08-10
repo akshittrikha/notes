@@ -102,3 +102,4 @@ Counts also **decay over time** so old stale frequency doesn't keep old items al
 - [[Clock Sweep Algorithm]] — LRU approximation used by PostgreSQL
 - [[Belady's Anomaly]] — why algorithm choice matters for cache correctness
 - [[PostgreSQL Internals]] — broader PostgreSQL context
+- [[Database Architecture]] — the buffer manager's place within the storage engine layer

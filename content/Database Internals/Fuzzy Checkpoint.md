@@ -208,3 +208,5 @@ The fuzzy inconsistency is fully resolved by WAL replay. WAL is always the final
 - [[Clock Sweep Algorithm]] — how dirty pages get evicted from buffer pool
 - [[Steal and Force Policies]] — why fuzzy checkpoints exist (NO-FORCE) and why mid-checkpoint uncommitted data on disk is safe (STEAL + UNDO)
 - [[Copy-on-Write]] — CoW semantics at the buffer pool level during checkpoint flush
+- [[Database Architecture]] — the recovery manager's place within the storage engine layer
+- [[Storage Engines]] — why B-Tree engines specifically need WAL for crash safety

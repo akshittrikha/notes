@@ -79,3 +79,4 @@ Algorithms satisfying this are immune. Algorithms that don't are vulnerable.
 
 ## Related Notes
 - [[PostgreSQL Internals]] — circular buffers and PostgreSQL's clock sweep strategy
+- [[Database Architecture]] — the buffer manager's place within the storage engine layer

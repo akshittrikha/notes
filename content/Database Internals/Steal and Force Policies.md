@@ -119,4 +119,6 @@ Recovery:
 - [[Fuzzy Checkpoint]] — consequence of NO-FORCE; pages not on disk at commit, checkpoints bound recovery time
 - [[Clock Sweep Algorithm]] — the eviction mechanism that does the stealing
 - [[PostgreSQL Internals]] — WAL buffer, MVCC, durability guarantees
+- [[Database Architecture]] — where these policies sit within the storage engine's recovery manager
+- [[Storage Engines]] — STEAL/FORCE is a B-Tree-family concern; LSM-Trees sidestep it via immutable SSTables
 
