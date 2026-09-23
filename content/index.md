@@ -4,7 +4,7 @@ Technical notes on distributed systems, database internals, Kubernetes, and soft
 
 ## Topics
 
-- [[Database Internals/Steal and Force Policies|Database Internals]] — buffer pool policies, WAL, recovery, MVCC
+- [[Database Internals/Steal and Force Policies|Database Internals]] — buffer pool policies, WAL, recovery, MVCC, vector databases
 - [[Distributed Systems/RPC and APIs|Distributed Systems]] — RPC, delivery semantics, load balancers, messaging patterns
 - [[Kubernetes/Kubernetes Primitives|Kubernetes]] — primitives, Istio, Envoy, service mesh
 - [[Research Papers/Spanner|Research Papers]] — Spanner, Postgres at scale, Transformers
